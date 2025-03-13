@@ -1,3 +1,8 @@
+#Typing Challenge
+
+A website to run a form filling challenge.
+Using SvelteKit and Tailwind CSS.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
