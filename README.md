@@ -1,4 +1,4 @@
-#Typing Challenge
+# Typing Challenge
 
 A website to run a form filling challenge.
 Using SvelteKit and Tailwind CSS.
